@@ -134,6 +134,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: RECURSO ADMINISTRATIVO
    
    _perguntasdafaq/qualprazopararecursoadministrativo
+   _perguntasdafaq/comofacopararealizarrecursoadministrativodoindeferimentodorequerimentodalicencadepescadorepescadorprofissional
    
 .. raw:: html
 
