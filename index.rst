@@ -85,6 +85,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: ALTERAÇÃO DE CADASTRO
    
    _perguntasdafaq/comofacoparaalterarcorrigirmeucadastrononovosisrgp40
+   _perguntasdafaq/possotrocaroe-mailderecebimento
    
    
 .. raw:: html
@@ -150,7 +151,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/precisomefiliaroupediracoloniasindicatoouassociacaoparasolicitararminhacarteirinhadepescadorprofissional
    _perguntasdafaq/precisoirateasuperintendenciadoestadoondemoroparasolicitaraminhalicencadepescadorprofissional
    _perguntasdafaq/quandominhalicençaparaaprovadapossoimprimiremqualquerlugareusarqualquertipodepapel
-   _perguntasdafaq/possotrocaroe-mailderecebimento
+   
    
 .. raw:: html
 
